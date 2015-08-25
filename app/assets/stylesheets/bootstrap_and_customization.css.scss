@@ -15,7 +15,9 @@ $jumbotron-heading-color: #F9F9F9;
 $btn-default-color: #f9f9f9;
 $btn-default-bg: #53A6CF;
 
+@import 'bootstrap-sprockets';
 @import 'bootstrap';
+@import url("//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css");
 
 .center {
   text-align:  center;
